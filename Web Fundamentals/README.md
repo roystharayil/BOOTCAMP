@@ -10,12 +10,7 @@
  - HTMLReference.io
  - CSSReference.io
  - [Course] https://www.freecodecamp.org/learn/2022/responsive-web-design/
-## Labs, Workouts, Exercises, Challenges
- - [W3 Schools](https://www.w3schools.com/html/exercise.asp)
- - https://github.com/webtoknow/web-lab
- - https://github.com/The-Code-Dose/html-css-challenges
- - https://github.com/CodeYourFuture/html-css-git-exercises
- - https://www.frontendmentor.io/challenges
+
 
 ## Week 1: Introduction to HTML and CSS
 
