@@ -1,6 +1,21 @@
 # Web Fundamentals
 
+## Resources
+[W3 Schools](https://www.w3schools.com/)
+Shay Howe's Learn to Code HTML & CSS
+Oliver James' HTML & CSS Is Hard (But Doesn't Have To Be)
+Jessica Hische and Russ Maschmeyer's Don't Fear The Internet
+MDN's HTML: Hypertext Markup Language
+MDN's CSS: Cascading Stylesheets
+HTMLReference.io
+CSSReference.io
+[Course] https://www.freecodecamp.org/learn/2022/responsive-web-design/
+## Labs, Workouts, Exercises, Challenges
 Do All the exercises from [W3 Schools](https://www.w3schools.com/html/exercise.asp)
+https://github.com/webtoknow/web-lab
+https://github.com/The-Code-Dose/html-css-challenges
+https://github.com/CodeYourFuture/html-css-git-exercises
+https://www.frontendmentor.io/challenges
 
 ## Week 1: Introduction to HTML and CSS
 
