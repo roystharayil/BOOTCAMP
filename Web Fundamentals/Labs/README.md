@@ -1,4 +1,4 @@
 ## Labs
 
-[HTML CSS Labs](https://github.com/roystharayil/BOOTCAMP/edit/main/Web%20Fundamentals/Labs)https://github.com/roystharayil/BOOTCAMP/edit/main/Web%20Fundamentals/Labs/html_css.md)
+[HTML CSS Labs](https://github.com/roystharayil/BOOTCAMP/edit/main/Web%20Fundamentals/Labs/html_css.md)
 [Javascript Labs](https://github.com/roystharayil/BOOTCAMP/edit/main/Web%20Fundamentals/Labs/js.md)
