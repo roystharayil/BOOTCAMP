@@ -1,6 +1,8 @@
 # Web Fundamentals
 
-## Week 1: Introduction and HTML
+Do All the exercises from [W3 Schools](https://www.w3schools.com/html/exercise.asp)
+
+## Week 1: Introduction to HTML and CSS
 
 ### Day 1: Introduction to HTML
 
@@ -16,93 +18,106 @@ Assignment1 : Create a simple HTML page document with basic tags
 
 ### Day 2: HTML - Links, Images, and Tables
 
-Hyperlinks: Creating links using anchor tags
-Images: Inserting images with the img tag
-Absolute vs Relative URLs
-Tables: Creating tables using table, tr, td, and th elements
-Table attributes: rowspan, colspan, etc.
+1. Hyperlinks: Creating links using anchor tags
+2. Images: Inserting images with the img tag
+3. Absolute vs Relative URLs
+4. Tables: Creating tables using table, tr, td, and th elements
+5. Table attributes: rowspan, colspan, etc.
 
 Assignment2 : Create a document with links, images, and tables
 
 ### Day 3: HTML - Forms and Multimedia Elements
 
-Forms: Creating forms using form, input, select, and textarea elements
-Form attributes: Method, action, etc.
-HTML5 input types: email, date, number, etc.
-Multimedia: Embedding audio and video using audio and video elements
-Practicals: Creating a registration form and embedding multimedia elements in a web page
+1. Forms: Creating forms using form, input, select, and textarea elements
+2. Form attributes: Method, action, etc.
+3. HTML5 input types: email, date, number, etc.
+4. Multimedia: Embedding audio and video using audio and video elements
 
 Assignment3 : Create a registration form and embedding multimedia elements in a web page
 
 ### Day 4: Introduction to CSS
 
-Introduction to CSS: Importance and history
-Syntax: Understanding selectors, properties, and values
-Including CSS: Inline, Internal, and External styles
-Basic styling: Colors, fonts, and text properties
+1. Introduction to CSS: Importance and history
+2. Syntax: Understanding selectors, properties, and values
+3. Including CSS: Inline, Internal, and External styles
+4. Basic styling: Colors, fonts, and text properties
 
 Assignment4: Styling an HTML document with basic CSS
 
 ### Day 5: CSS - Box Model and Layout, Grid and Responsive Design
 
-Box Model: Understanding margin, padding, and border properties
-Display property: block, inline, and inline-block
-Positioning: static, relative, absolute, and fixed
-Flexbox: Understanding flex container and items
-Grid Layout: Understanding grid container and items
-Creating layouts with grid: grid-template-columns, grid-template-rows, etc.
-Responsive design: Introduction to media queries
-Creating a responsive webpage
+1. Box Model: Understanding margin, padding, and border properties
+2. Display property: block, inline, and inline-block
+3. Positioning: static, relative, absolute, and fixed
+4. Flexbox: Understanding flex container and items
+5. Grid Layout: Understanding grid container and items
+6. Creating layouts with grid: grid-template-columns, grid-template-rows, etc.
+7. Responsive design: Introduction to media queries
 
-Assignment5: Creating layouts using the box model and flexbox
+Assignment5: Create layouts using the box model and flexbox
 Assignment6 : Create above layout using CSS grid
 
 ### Day 6: CSS - 
 
-Project 1 
-Start working on project integrating HTML and CSS concepts learned
+Project 1 : Create a Clone of any Public websites
+(e.g. Netflix, Amazon, Swiggy)
 
 ### Day 7:
 
-Project 2
-Start working on project integrating HTML and CSS concepts learned
+Project 2 : Create a Clone of any Public websites
+(e.g. Netflix, Amazon, Swiggy)
 
-### Day 8:
+## Week 2: Introduction to Javascript and Bootstrap
 
-Bootstrap Components (navbar, cards, forms)
-Responsive Design with Bootstrap
-Project: Building a Responsive Web Page with Bootstrap
-Week 3: JavaScript Basics
-Day 9-10: Introduction to JavaScript
-### Day 9:
+### Day 8: Introduction to JavaScript
 
-Introduction to JavaScript
-Syntax and Basic Constructs
-Variables, Data Types, and Operators
-### Day 10:
+1. Understanding the Role of JavaScript in Web Development
+2. Setting Up a Development Environment (Text editors, browsers, etc.)
+3. JavaScript Syntax: Variables, Operators, and Data Types
+4. Control Flow: Conditionals (if, else, switch) and Loops (for, while)
+5. Functions: Declaration, Invocation, and Scope
 
-Control Flow (if-else, loops)
-Functions
-Event Handling
-Day 11-12: Advanced JavaScript
-### Day 11:
+Assignment7: Creating Simple JavaScript Programs
 
-Objects and Arrays
-DOM Manipulation
-JavaScript Events and Event Listeners
-### Day 12:
 
-Introduction to jQuery (optional)
-AJAX Basics (optional)
-Project: Creating a Dynamic Web Page with JavaScript
-Week 4: Project and Review
-Day 13-14: Final Project and Review
+### Day 9:JavaScript DOM Manipulation
+
+1. Understanding the Document Object Model (DOM)
+2. Selecting and Manipulating DOM Elements
+3. Creating and Removing DOM Elements
+4. Event Handling: Understanding Events and Event Listeners
+
+Assignment8: Building Interactive Web Pages using DOM Manipulation and Event Handling
+
+### Day 10: JavaScript Objects and Arrays
+
+1. Understanding Objects: Creating Objects, Properties, and Methods
+2. Understanding Arrays: Creating Arrays, Array Methods, and Manipulation
+3. Iterating Over Arrays and Objects
+
+Assignment9: Creating Programs Utilizing Objects and Arrays
+
+### Day 11: Introduction to Bootstrap
+
+1. Introduction to Bootstrap: Importance and History
+2. Setting Up Bootstrap in a Project
+3. Understanding the Bootstrap Grid System
+4. Exploring Bootstrap Components: Navbar, Buttons, and Forms
+
+Assignment10: Creating a Basic Layout with Bootstrap
+
+### Day 12: Bootstrap Components and Utilities
+
+1. Further Bootstrap Components: Cards, Carousel, Modal, etc.
+2. Using Bootstrap Utilities: Spacing, Colors, Borders, etc.
+3. Understanding Bootstrap JavaScript Plugins
+4. Integrating JavaScript and Bootstrap for Interactive Web Pages
+
 ### Day 13:
 
-Final Project: Building a Complete Website
-Integrating HTML, CSS, JavaScript, and Bootstrap
+Project3 : Create a Personal Portfolio website
+
 ### Day 14:
 
-Project Presentations and Feedback
-Course Review and Next Steps
-Resources for Further Learning
+Project4 : Create a Clone of any Public websites using bootstrap
+(e.g. Netflix, Amazon, Swiggy)
