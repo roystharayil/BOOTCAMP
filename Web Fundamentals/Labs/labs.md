@@ -5,3 +5,6 @@
 
 ### Labs 2.1
 ![Labs 2.1](Labs_2_1.png)
+
+### Labs 2.2
+![Labs 2.2](Labs_2_2.png)
