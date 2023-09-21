@@ -6,7 +6,7 @@ Detailed syllabus with exercises for web, mobile, game, backend development
 
 [DSA](https://github.com/roystharayil/BOOTCAMP/tree/main/DSA)
 
-[Unity Game Development]()
+[Unity Game Development](https://github.com/roystharayil/BOOTCAMP/tree/main/Unity%20Game%20Development)
 
 [MERN]()
 
