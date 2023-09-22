@@ -12,3 +12,10 @@ Detailed syllabus with exercises for web, mobile, game, backend development
 
 [Flutter]()
 
+
+## Contributing
+
+We welcome contributions to this project! To get started, please follow these steps:
+
+[Contributing Guidelines](/CONTRIBUTING.md)
+ 
