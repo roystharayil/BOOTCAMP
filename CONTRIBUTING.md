@@ -1,4 +1,3 @@
-```markdown
 # Contributing to BOOTCAMP
 
 Thank you for considering contributing to BOOTCAMP! We are excited to welcome contributors who are willing to help make our tutorials better. Whether you're a seasoned developer or just starting, your help is valued and appreciated!
@@ -50,4 +49,3 @@ Contributors will be acknowledged in the [CONTRIBUTORS.md](./CONTRIBUTORS.md) fi
 If you have any questions or concerns, please feel free to open an issue or contact [Roy] at [roystharayil@gmail.com].
 
 Thank you for your contribution! We look forward to building an invaluable resource for beginner developers together!
-```
