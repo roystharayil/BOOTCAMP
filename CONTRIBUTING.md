@@ -46,6 +46,6 @@ Please review and adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) to ensur
 Contributors will be acknowledged in the [CONTRIBUTORS.md](./CONTRIBUTORS.md) file and, where appropriate, in the tutorials they contribute to.
 
 ## Questions or Concerns?
-If you have any questions or concerns, please feel free to open an issue or contact [Roy] at [roystharayil@gmail.com].
+If you have any questions or concerns, please feel free to open an issue or contact Roy at roystharayil@gmail.com.
 
 Thank you for your contribution! We look forward to building an invaluable resource for beginner developers together!
