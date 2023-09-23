@@ -1,6 +1,9 @@
 # MERN Guided Learning Path
+
 This is a guided learning path for the MERN stack. It is designed to help you learn the MERN stack in 16 weeks. The path is divided into 4 phases, each phase lasting 4 weeks. Each phase has a set of objectives, topics, and assignments. The assignments are designed to help you apply the concepts you learn. The path is designed to be flexible, so you can adjust it to your needs. You can spend more or less time on each phase depending on your learning pace. You can also skip some topics if you are already familiar with them. 
+
 ### Week 1-2: Web Fundamentals & JavaScript Basics
+
 #### Objectives:
 - Understanding of web development fundamentals.
 - Understanding of HTML, CSS, and JavaScript basics.
@@ -52,7 +55,16 @@ This is a guided learning path for the MERN stack. It is designed to help you le
         - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=RLtyhwFtXQA)
         - [Official Docs](https://nodejs.org/en/docs)
 
-#### Labs:
+    - Labs:
+        - [Lab1](/MERN/Labs/README.md#lab-1-exploring-nodejs-basics)
+        - [Lab2](/MERN/Labs/README.md#lab-2-deep-dive-into-nodejs-concepts)
+
+    - Quiz:
+        - [Nodejs Quiz](/MERN/Quiz/README.md#nodejs-quiz)
+        - [Expressjs Quiz](/MERN/Quiz/README.md#expressjs-quiz)
+    
+    - Exercises:
+        - [Exercises 1](/MERN/Exercises/README.md#exercises-1---basics-of-nodejs-and-expressjs)
 
     
 
@@ -64,11 +76,11 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 - Day 6: Building a Simple API
 
 #### References:
-[Book] [Node.js Web Development - Fifth Edition](https://www.packtpub.com/product/node-js-web-development-fifth-edition/9781788626859)
-[Book] [Express in Action](https://www.manning.com/books/express-in-action)
-[Course] [Node.js: The Complete Guide to Build RESTful APIs](https://www.udemy.com/course/nodejs-master-class/)
-[Course] [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
-[Course] [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
+ - [Book - Node.js Web Development - Fifth Edition](https://www.packtpub.com/product/node-js-web-development-fifth-edition/9781788626859)
+ - [Book - Express in Action](https://www.manning.com/books/express-in-action)
+ - [Course - Node.js: The Complete Guide to Build RESTful APIs](https://www.udemy.com/course/nodejs-master-class/)
+ - [Course - The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+ - [Course - Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/)
 
 
 ### Week 5-6: MongoDB & Mongoose

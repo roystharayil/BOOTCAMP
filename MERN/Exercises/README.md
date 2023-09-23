@@ -1,4 +1,4 @@
-## Exercises
+## Exercises 1 - Basics of Node.js and Express.js
 
 ### Question 1
 Create a variable called `server`, and assign an instance of an HTTP server to it.
