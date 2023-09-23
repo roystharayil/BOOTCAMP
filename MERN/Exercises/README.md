@@ -1,4 +1,4 @@
-## Exercises 1 - Basics of Node.js and Express.js
+## Exercises 1 - Basics of Node.js
 
 ### Question 1
 Create a variable called `server`, and assign an instance of an HTTP server to it.
@@ -41,64 +41,43 @@ Create a variable called `route` and assign a string representing a URL path, e.
 
 
 ## Expressjs
-### Beginner:
-1. **Q1.** How do you create an instance of an Express application?
 
+1. **Q1.** How do you create an instance of an Express application?
 
 2. **Q2.** Write the code to make your Express application listen on port 3000.
 
-
 3. **Q3.** How can you serve static files, like images and CSS, using Express?
-
 
 4. **Q4.** How do you capture parameters passed in a URL?
 
-
 5. **Q5.** Write the syntax to send a JSON response `{ message: 'Hello, World!' }` from an Express route.
-
 
 6. **Q6.** How do you extract data sent in the request body?
 
-
-### Intermediate:
 7. **Q7.** How can you handle HTTP POST requests in Express?
-
 
 8. **Q8.** Write the syntax to use middleware in Express.
 
-
 9. **Q9.** How can you define error-handling middleware in Express?
-
 
 10. **Q10.** How do you redirect a user to a different URL in Express?
 
-
 11. **Q11.** How do you set a response status code in Express?
-
 
 12. **Q12.** How do you organize your routes with the Express Router?
 
-
-### Expert:
 13. **Q13.** How do you set up and use a template engine in Express, such as EJS?
-
 
 14. **Q14.** How do you handle Cross-Origin Resource Sharing (CORS) in Express?
 
-
 15. **Q15.** How do you perform input validation in Express using express-validator?
-
 
 16. **Q16.** How can you optimize your Express app performance with compression middleware?
 
-
 17. **Q17.** How do you set up session management in Express?
-
 
 18. **Q18.** How do you structure your Express app using the MVC architecture?
 
-
 19. **Q19.** How do you connect your Express application to a MongoDB database using Mongoose?
-
 
 20. **Q20.** How do you secure your Express app by setting various HTTP headers using helmet?

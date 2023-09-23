@@ -61,19 +61,83 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 
     - Quiz:
         - [Nodejs Quiz](/MERN/Quiz/README.md#nodejs-quiz)
-        - [Expressjs Quiz](/MERN/Quiz/README.md#expressjs-quiz)
     
     - Exercises:
-        - [Exercises 1](/MERN/Exercises/README.md#exercises-1---basics-of-nodejs-and-expressjs)
-
-    
+        - [Exercises 1](/MERN/Exercises/README.md#exercises-1---basics-of-nodejs)
 
 
 - Day 2: Asynchronous JavaScript
-- Day 3: Introduction to Express.js
-- Day 4: Routing and Middleware
+
+    - Topics:
+        - Callbacks
+        - Promises
+        - Async/Await
+        - Error Handling
+        - Event Loop
+
+    - Resources:
+        - [Asynchronous JavaScript](https://www.youtube.com/watch?v=PoRJizFvM7s)
+        - [JavaScript Promises in 10 Minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+        - [JavaScript Async Await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
+        - [JavaScript Error Handling](https://www.youtube.com/watch?v=yeEY7ZqfNag)
+        - [JavaScript Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+        - [Book - Asynchronous JavaScript](https://www.amazon.com/Asynchronous-JavaScript-Deep-Dive-Completely/dp/1449362185)
+        - [Book - JavaScript Promises](https://www.amazon.com/JavaScript-Promises-Essential-Techniques-Asynchronous/dp/1449373211)
+- Day 3,4: Introduction to Express.js
+
+    - Topics:
+        - What is Express.js?
+        - Why use Express.js?
+        - Routing
+        - Middleware
+        - HTTP Methods
+        - Request and Response
+        - Templating Engines
+        - Error Handling
+        - Debugging
+        - Security
+        - Deployment
+
+    - Resources:
+        - [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+        - [Express.js Tutorial](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+        - [Express.js Tutorial for Beginners](https://www.youtube.com/watch?v=Oe421EPjeBE)
+        - [Official Docs](https://expressjs.com/en/guide/routing.html)
+        - [Book - Express in Action](https://www.manning.com/books/express-in-action)
+        - [Book - Express.js Guide](https://www.amazon.com/Express-js-Guide-Web-Development-Engine/dp/1491949309)
 - Day 5: Handling HTTP Requests
+
+    - Topics:
+        - HTTP Methods
+        - Request and Response
+        - RESTful APIs
+        - CRUD Operations
+        - Authentication and Authorization
+        - Cookies and Sessions
+        - CORS
+        - WebSockets
+
+    - Resources:
+        - [HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+        - [REST API Crash Course](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+        - [REST API Tutorial](https://www.youtube.com/watch?v=SLwpqD8n3d0)
+        - [REST API Tutorial for Beginners](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+        - [Book - RESTful Web APIs](https://www.amazon.com/RESTful-Web-APIs-Leonard-Richardson/dp/1449358063)
+        - [Book - RESTful Web Services Cookbook](https://www.amazon.com/RESTful-Web-Services-Cookbook-Scalability/dp/0596801688)
+
+
 - Day 6: Building a Simple API
+
+    - Topics:
+        - Building a Simple API
+        - Testing
+        - Documentation
+        - Deployment
+
+    - Resources:
+        - [Building a Simple API](https://www.youtube.com/watch?v=fgTGADljAeg)
+        - [Testing Express.js](https://www.youtube.com/watch?v=2G_mWfG0DZE)
+        - [Express.js Testing](https://www.youtube.com/watch?v=9FQrFah9rnc)
 
 #### References:
  - [Book - Node.js Web Development - Fifth Edition](https://www.packtpub.com/product/node-js-web-development-fifth-edition/9781788626859)
@@ -96,6 +160,77 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 - Setup a MongoDB Database.
 - Perform CRUD operations using Mongoose.
 
+#### Study Plan:
+- Day 1,2,3: Introduction to MongoDB
+
+    - Topics:
+        - What is MongoDB?
+        - Why use MongoDB?
+        - Architecture
+        - Documents and Collections
+        - CRUD Operations
+        - Indexing
+        - Aggregation
+        - Replication
+        - Sharding
+        - Deployment
+
+    - Resources:
+        - [MongoDB Basics YT](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
+        - [MongoDB Crash Course YT](https://www.youtube.com/watch?v=-56x56UppqQ)
+        - [MongoDB Tutorial for Beginners YT](https://www.youtube.com/watch?v=pWbMrx5rVBE)
+        - [Official Docs](https://docs.mongodb.com/manual/)
+        - [Book - MongoDB: The Definitive Guide](https://www.amazon.com/MongoDB-Definitive-Guide-Powerful-Scalable/dp/1491954469)
+        - [Book - MongoDB in Action](https://www.amazon.com/MongoDB-Action-Kyle-Banker/dp/1617291609)
+        - [Book - MongoDB Applied Design Patterns](https://www.amazon.com/MongoDB-Applied-Design-Patterns-Practical/dp/1491954469)
+
+- Day 4,5: Introduction to Mongoose
+    
+    - Topics:
+        - What is Mongoose?
+        - Why use Mongoose?
+        - Schemas
+        - Models
+        - Document Manipulation
+        - Validation
+        - Middleware
+        - Plugins
+        - Population
+        - Aggregation
+        - Deployment
+    
+    - Resources:
+        - [Mongoose Crash Course YT](https://www.youtube.com/watch?v=bxsemcrY4gQ)
+        - [Mongoose Tutorial YT](https://www.youtube.com/watch?v=1mxo0PUseII)
+        - [Mongoose Tutorial for Beginners YT](https://www.youtube.com/watch?v=ZKwrOXl5TDI)
+        - [Official Docs](https://mongoosejs.com/docs/guide.html)
+        - [Book - Mongoose for Application Development](https://www.amazon.com/Mongoose-Application-Development-Simon-Holmes/dp/1783987321)
+        - [Book - Mongoose for Application Development - Second Edition](https://www.amazon.com/Mongoose-Application-Development-Simon-Holmes/dp/1785880180)
+
+- Day 6: Building a Simple API with MongoDB and Mongoose
+    
+    - Topics:
+        - Building a Simple API
+        - Testing
+        - Documentation
+        - Deployment
+
+    - Resources:
+        - [Building a Simple API YT](https://www.youtube.com/watch?v=fgTGADljAeg)
+        - [Testing Mongoose YT](https://www.youtube.com/watch?v=2G_mWfG0DZE)
+        - [Mongoose Testing YT](https://www.youtube.com/watch?v=9FQrFah9rnc)
+
+#### References:
+- [Book - MongoDB: The Definitive Guide](https://www.amazon.com/MongoDB-Definitive-Guide-Powerful-Scalable/dp/1491954469)
+- [Book - MongoDB in Action](https://www.amazon.com/MongoDB-Action-Kyle-Banker/dp/1617291609)
+- [Book - MongoDB Applied Design Patterns](https://www.amazon.com/MongoDB-Applied-Design-Patterns-Practical/dp/1491954469)
+- [Book - Mongoose for Application Development](https://www.amazon.com/Mongoose-Application-Development-Simon-Holmes/dp/1783987321)
+- [Book - Mongoose for Application Development - Second Edition](https://www.amazon.com/Mongoose-Application-Development-Simon-Holmes/dp/1785880180)
+- [Course - The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/)
+- [Course - MongoDB Essentials - Complete MongoDB Guide](https://www.udemy.com/course/mongodb-essentials-m/)
+- [Course - MongoDB - The Complete Developer's Guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+- [Course - MongoDB - The Complete Developer's Guide 2021](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
+
 ### Week 7-8: React.js Basics
 #### Objectives:
 - Understanding the fundamentals of React.js.
@@ -108,6 +243,52 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 #### Assignments:
 - Create a static site using React.js components.
 - Build components that handle user input and manage state.
+
+#### Study Plan:
+- Day 1,2,3: Introduction to React.js
+
+    - Topics:
+        - What is React.js?
+        - Why use React.js?
+        - Architecture
+        - Components
+        - Props
+        - State
+        - Lifecycle Methods
+        - Hooks
+        - Deployment
+    
+
+- Day 4,5: JSX, Event Handling, and Conditional Rendering
+    - Topics:
+        - JSX
+        - Event Handling
+        - Conditional Rendering
+        - Lists and Keys
+        - Forms
+        - Lifting State Up
+        - Composition vs Inheritance
+        - Deployment
+
+- Day 6: Building a Simple React App
+    - Topics:
+        - Building a Simple React App
+        - Testing
+        - Documentation
+        - Deployment
+
+#### References:
+- Resources:
+    - [React.js Basics YT](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+    - [React.js Crash Course YT](https://www.youtube.com/watch?v=sBws8MSXN7A)
+    - [React.js Tutorial for Beginners YT](https://www.youtube.com/watch?v=DLX62G4lc44)
+    - [Official Docs](https://reactjs.org/docs/getting-started.html)
+    - [Book - React.js Essentials - Second Edition](https://www.amazon.com/React-js-Essentials-Artemij-Fedosejev/dp/1783551623)
+    - [Book - React Quickly](https://www.amazon.com/React-Quickly-Painless-Web-Development/dp/1617293342)
+    - [Book - React Design Patterns and Best Practices](https://www.amazon.com/React-Design-Patterns-Best-Practices/dp/1786464535)
+    - [Book - React Cookbook](https://www.amazon.com/React-Cookbook-Development-Reusable-Components/dp/1783980726)
+    - [Book - React in Action](https://www.amazon.com/React-Action-Mark-Tielens-Thomas/dp/1617293857)
+    - [Book - Fullstack React](https://www.amazon.com/Fullstack-React-Complete-Developers-Environment/dp/0991344626)
 
 ### Week 9-10: Advanced React.js & Redux
 #### Objectives:
@@ -122,6 +303,51 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 - Develop a single-page application using React Router.
 - Implement state management using Redux.
 
+#### Study Plan:
+- Day 1,2: React Router
+
+    - Topics:
+        - What is React Router?
+        - Why use React Router?
+        - Architecture
+        - Routing
+        - Navigation
+        - Deployment
+
+    - Res
+
+- Day 3,4,5: Redux
+    - Topics:
+        - What is Redux?
+        - Why use Redux?
+        - Architecture
+        - Store
+        - Actions
+        - Reducers
+        - Middleware
+        - Deployment
+
+- Day 6: Building a Simple React App with Redux
+    - Topics:
+        - Building a Simple React App with Redux
+        - Testing
+        - Documentation
+        - Deployment
+
+#### References:
+- Resources:
+    - [React Router Crash Course YT](https://www.youtube.com/watch?v=Law7wfdg_ls)
+    - [React Router Tutorial YT](https://www.youtube.com/watch?v=110dW3l5GQY)
+    - [React Router Tutorial for Beginners YT](https://www.youtube.com/watch?v=Law7wfdg_ls)
+    - [Official Docs](https://reactrouter.com/web/guides/quick-start)
+    - [Book - React Router 6 Quick Start Guide](https://www.amazon.com/React-Router-Quick-Start-Guide/dp/1800560544)
+    - [React Redux YT Crash Course](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+    - [React Redux Tutorial YT](https://www.youtube.com/watch?v=93p3LxR9xfM)
+    - [React Redux Tutorial for Beginners YT](https://www.youtube.com/watch?v=CVpUuw9XSjY)
+    - [Official Docs](https://react-redux.js.org/introduction/getting-started)
+    - [Book - React Redux Quick Start Guide](https://www.amazon.com/React-Redux-Quick-Start-Guide/dp/1789536179)
+    - [Book - React Redux Cookbook](https://www.amazon.com/React-Redux-Cookbook-Valentin-Glazkov/dp/178899192X)
+
 ### Week 11-12: Full-Stack Application Development
 #### Objectives:
 - Integrating MongoDB, Express.js, React.js, and Node.js.
@@ -135,6 +361,45 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 - Build a basic full-stack application integrating MERN components.
 - Implement authentication in a MERN application.
 
+#### study plan:
+- Day 1,2: MERN Stack
+
+    - Topics:
+        - What is MERN Stack?
+        - Why use MERN Stack?
+        - Architecture
+        - Integration
+        - Deployment
+
+- Day 3,4,5: Authentication and Authorization
+    - Topics:
+        - What is Authentication?
+        - Why use Authentication?
+        - Architecture
+        - Authentication
+        - Authorization
+        - Deployment
+
+- Day 6: Building a Simple Full-Stack App
+    - Topics:
+        - Building a Simple Full-Stack App
+        - Testing
+        - Documentation
+        - Deployment
+
+#### References:
+- Resources:
+    - [MERN Stack Crash Course YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [MERN Stack Tutorial YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [MERN Stack Tutorial for Beginners YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [Official Docs](https://www.mongodb.com/mern-stack)
+    - [Book - Pro MERN Stack](https://www.amazon.com/Pro-MERN-Stack-Development-Express/dp/1484226526)
+    - [Book - Full-Stack React Projects](https://www.amazon.com/Full-Stack-React-Projects-Modern-Development/dp/1788835530)
+    - [Book - Full-Stack React, TypeScript, and Node](https://www.amazon.com/Full-Stack-React-TypeScript-Node-Modern/dp/1839219930)
+    - [Book - Full-Stack React, Python, and GraphQL](https://www.amazon.com/Full-Stack-React-Python-GraphQL-Applications/dp/1839219930)
+    - [Book - Full-Stack React, TypeScript, and Node](https://www.amazon.com/Full-Stack-React-TypeScript-Node-Modern/dp/1839219930)
+    - [Book - Full-Stack React, Python, and GraphQL](https://www.amazon.com/Full-Stack-React-Python-GraphQL-Applications/dp/1839219930)
+
 ### Week 13-14: Advanced MERN Concepts & Testing
 #### Objectives:
 - Advanced topics in MERN development.
@@ -147,6 +412,44 @@ This is a guided learning path for the MERN stack. It is designed to help you le
 #### Assignments:
 - Implement advanced features in a MERN application.
 - Write tests for a MERN application.
+
+#### Study Plan:
+- Day 1,2: Advanced MERN
+
+    - Topics:
+        - Error Handling
+        - Data Validation
+        - Security
+        - Deployment
+
+    
+
+- Day 3,4,5: Testing
+    - Topics:
+        - Unit Testing
+        - Integration Testing
+        - E2E Testing
+        - Deployment
+
+- Day 6: Building a Simple Full-Stack App
+    - Topics:
+        - Building a Simple Full-Stack App
+        - Testing
+        - Documentation
+        - Deployment
+
+#### References:
+- Resources:
+    - [MERN Stack Crash Course YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [MERN Stack Tutorial YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [MERN Stack Tutorial for Beginners YT](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+    - [Official Docs](https://www.mongodb.com/mern-stack)
+    - [Book - Pro MERN Stack](https://www.amazon.com/Pro-MERN-Stack-Development-Express/dp/1484226526)
+    - [Book - Full-Stack React Projects](https://www.amazon.com/Full-Stack-React-Projects-Modern-Development/dp/1788835530)
+    - [Book - Full-Stack React, TypeScript, and Node](https://www.amazon.com/Full-Stack-React-TypeScript-Node-Modern/dp/1839219930)
+    - [Book - Full-Stack React, Python, and GraphQL](https://www.amazon.com/Full-Stack-React-Python-GraphQL-Applications/dp/1839219930)
+    - [Book - Full-Stack React, TypeScript, and Node](https://www.amazon.com/Full-Stack-React-TypeScript-Node-Modern/dp/1839219930)
+    - [Book - Full-Stack React, Python, and GraphQL](https://www.amazon.com/Full-Stack-React-Python-GraphQL-Applications/dp/1839219930)
 
 ### Week 15-16: Final Project & Presentation
 #### Objectives:
